@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}
+
+\bibitem{gesture}
+谢良才.
+\newblock 基于领域自适应的wifi手势识别的研究与实现.
+\newblock 硕士论文, 东南大学, 2021.
+
+\bibitem{core}
+Y.~Zhang, Y.~Zheng, K.~Qian, G.~Zhang, Y.~Liu, C.~Wu, and Z.~Yang.
+\newblock Widar3.0: Zero-effort cross-domain gesture recognition with wi-fi.
+\newblock {\em IEEE Transactions on Pattern Analysis \&amp; Machine
+  Intelligence}, (01):1--1, aug 5555.
+
+\bibitem{gesture2}
+刘佳慧.
+\newblock 基于wifi的手势识别系统设计与实现.
+\newblock 硕士论文, 合肥工业大学, 2019.
+
+\end{thebibliography}

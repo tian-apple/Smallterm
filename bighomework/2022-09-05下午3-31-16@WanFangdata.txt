@@ -1,8 +1,0 @@
-@mastersthesis{谢良才 2021 基于领域自适应的WIFI手势识别的研究与实现 ,
-author={谢良才},
-title={ 基于领域自适应的WIFI手势识别的研究与实现 },
-school={东南大学},
-year={2021},
-type={硕士论文},
-month={},
-}
